@@ -9,7 +9,7 @@ cd star-wars-api
 
 Open the index.html file in your browser to view the project.
 
-##Technologies Used
+## Technologies Used
 HTML
 CSS
 JavaScript
@@ -19,8 +19,8 @@ Displays information about Star Wars characters and films
 Allows users to navigate between character and film pages
 Issues new API requests for linked data to display in linked pages
 
-##Contributing
+## Contributing
 If you would like to contribute to this project, please fork the repository and submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License.
